@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mylo-liu.github.io</id>
     <title>Mylo&apos;s Blog</title>
-    <updated>2021-05-03T06:45:08.992Z</updated>
+    <updated>2021-05-03T06:48:58.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mylo-liu.github.io"/>
     <link rel="self" href="https://mylo-liu.github.io/atom.xml"/>
@@ -19,9 +19,10 @@
         <content type="html"><![CDATA[<p>漫画原名：この美術部には問題がある！<br>
 作者：いみぎむる<br>
 翻译：百度贴吧用户 -10032-<br>
-动画：https://www.bilibili.com/bangumi/media/md5043/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.2<br>
-<img src="https://github.com/mylo-liu/konobi_comic/blob/main/96/1620023075205.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/mylo-liu/konobi_comic/blob/main/96/1620023075201.jpg" alt="" loading="lazy"></p>
+动画：<br>
+https://www.bilibili.com/bangumi/media/md5043/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.2</p>
+<p><img src="https://mylo-liu.github.io/post-images/1620024523772.jpg" alt="" loading="lazy"><br>
+<img src="https://mylo-liu.github.io/post-images/1620024531666.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
